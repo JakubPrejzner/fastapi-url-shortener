@@ -1,5 +1,3 @@
-[![CI](https://github.com/websensa/url-shortener-task-python-JakubPrejzner/actions/workflows/ci.yml/badge.svg)](https://github.com/websensa/url-shortener-task-python-JakubPrejzner/actions/workflows/ci.yml)
-
 # URL Shortener
 
 A production-ready URL shortening service with click analytics, OpenGraph previews, and rate limiting. Built with FastAPI, Redis, and Click.
