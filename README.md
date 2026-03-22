@@ -154,3 +154,8 @@ Detailed rationale is documented in [Architecture Decision Records](docs/adr/):
 ## License
 
 MIT
+
+
+---
+
+Built by [BitSharp](https://bitsharp.pl) - AI solutions for Polish businesses.
